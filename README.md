@@ -1,4 +1,4 @@
 # hello-world
-kolejne repozytorium
+kolejne repozytorium zmiana
 
-costam napisalem  dołozylem
+costam napisalem  dołlem
